@@ -1,3 +1,4 @@
+foo.db: cooldb
 eureka:
   client:
     serviceUrl:
